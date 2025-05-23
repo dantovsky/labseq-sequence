@@ -50,6 +50,9 @@ http://localhost:4200
 - All ChatGPT conversation  
   https://chatgpt.com/share/682fbbfb-dac8-800c-a0c3-da280e1c94c7
 
+- Quarkus Iniciante #1: Primeiros passos / Primeira app
+  https://www.youtube.com/watch?v=jAsbKysJMLU&list=PL9K59CMzoAG-IWvaSXnv6HbkFDX_L0HM7&index=2
+
 - Formatting a long system.out.print containing many strings & integers  
   https://stackoverflow.com/questions/34954236/formatting-a-long-system-out-print-containing-many-strings-integers
 
@@ -58,6 +61,9 @@ http://localhost:4200
 
 - Consuming REST API  
   https://app.insomnia.rest/
+
+- Spinners and loaders in pure CSS  
+  https://codepen.io/Ferie/pen/wQMvXV
 
 ## Stack and Programs Used
 

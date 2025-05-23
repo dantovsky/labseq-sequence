@@ -15,7 +15,13 @@
 
     <div class="result">
         <h2>Result:</h2>
+        <div *ngIf="loading" class="spinner">
+            <div class="loader--ripple">
+                <div></div>
+                <div></div>
+            </div>
+        </div>
         <pre>{{ result }}</pre>
     </div>
 </div>
-<p class="dev">Developd by Dante Marinho</p>
+<p class="dev">Developed by Dante Marinho</p>

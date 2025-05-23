@@ -32,18 +32,9 @@ In browser:
 http://localhost:8080/swagger-ui/
 ```
 
-### Frontend
+## Limitations
 
-```shell script
-cd frontend
-npm install
-npm run dev
-```
-
-In browser:
-```
-http://localhost:xxx/
-```
+- Impossible to calculate about l(700000) causing server error
 
 
 
