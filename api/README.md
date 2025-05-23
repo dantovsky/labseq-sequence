@@ -1,6 +1,8 @@
-# Labseq Sequence API
+# Labseq Sequence » API
 
 Exercice from Altice Labs.
+
+![alt text](screenshot-api.png)
 
 ## What was developed?
 

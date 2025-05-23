@@ -1,11 +1,13 @@
 import { Component } from '@angular/core';
+import { RouterOutlet } from '@angular/router';
+import { LabseqComponent } from './labseq/labseq.component';
 
 @Component({
-  standalone: true,
   selector: 'app-root',
-  template: `<h1>Hello World!</h1>`,
-  styleUrls: ['./app.component.css'],
+  imports: [RouterOutlet, LabseqComponent],
+  templateUrl: './app.component.html',
+  styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'homes';
+  title = 'frontend';
 }

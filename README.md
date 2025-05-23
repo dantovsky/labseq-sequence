@@ -1,6 +1,8 @@
-# Labseq Sequence API
+# Labseq Sequence » API + Frontend Angular
 
 Exercice from Altice Labs.
+
+![alt text](frontend/screenshot-frontend.png)
 
 ## What was developed?
 
@@ -43,7 +45,32 @@ In browser:
 http://localhost:4200
 ```
 
+## Credits and Resources
 
+- All ChatGPT conversation  
+  https://chatgpt.com/share/682fbbfb-dac8-800c-a0c3-da280e1c94c7
 
+- Formatting a long system.out.print containing many strings & integers  
+  https://stackoverflow.com/questions/34954236/formatting-a-long-system-out-print-containing-many-strings-integers
 
+- Maneiras de medir o tempo em Java sem bibliotecas externas  
+  https://thiagovespa.com.br/blog/2015/09/29/maneiras-de-medir-o-tempo-em-java-sem-bibliotecas-externas/
 
+- Consuming REST API  
+  https://app.insomnia.rest/
+
+## Stack and Programs Used
+
+- IntelliJ IDEA Ultimate  
+  https://www.jetbrains.com/idea/download/?section=windows
+
+- Visual Studio Code  
+  https://code.visualstudio.com/
+
+- Angular 19.2.0
+  https://angular.dev/
+
+- Quarkus 3.22  
+  https://code.quarkus.io/
+
+- JDK Eclipse Temurin 17.0.15

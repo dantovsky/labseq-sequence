@@ -1,0 +1,21 @@
+<div class="labseq-container">
+
+    <div class="input-section">
+        <label for="n">Calculate l(n):</label>
+        <input [(ngModel)]="n" type="number" id="n" placeholder="Enter a number" />
+        <button (click)="calculate()">Calculate</button>
+    </div>
+
+    <div class="operations">
+        <h2>Cache Operations:</h2>
+        <button (click)="clearCache()">Clear Cache</button>
+        <button (click)="printCache()">Print Cache</button>
+        <button (click)="getCacheSize()">Cache Size</button>
+    </div>
+
+    <div class="result">
+        <h2>Result:</h2>
+        <pre>{{ result }}</pre>
+    </div>
+</div>
+<p class="dev">Developd by Dante Marinho</p>
