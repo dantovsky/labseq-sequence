@@ -1,4 +1,4 @@
-# Labseq Sequence » API + Frontend Angular
+# Labseq Sequence » API Quarkus + Frontend Angular
 
 Exercice from Altice Labs.
 
