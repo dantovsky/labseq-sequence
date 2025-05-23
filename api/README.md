@@ -1,4 +1,4 @@
-# Labseq Sequence » API
+# Labseq Sequence » API Quarkus
 
 Exercice from Altice Labs.
 
